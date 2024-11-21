@@ -62,3 +62,74 @@ Les analyses se basent sur les données fournies par **Laplace Immo** :
 ---
 
 Ce projet m’a permis de renforcer mes compétences en modélisation de bases de données, SQL et communication des résultats, tout en répondant à des problématiques concrètes dans le secteur immobilier.
+
+
+---
+
+---
+
+
+
+# 🏠 Creation and Utilization of a Real Estate Database with SQL
+
+This project, completed as part of my OpenClassrooms Data Analyst training, aimed to develop and exploit a relational database for **Laplace Immo**, a national network of real estate agencies. The database facilitates the analysis of the French real estate market and helps agencies better support their clients through data-driven insights.
+
+---
+
+## 📚 Project Context
+**Laplace Immo** sought to differentiate itself from competitors by leveraging data to better understand real estate market trends. As part of the internal strategic initiative called **DATAImmo**, I was tasked with designing, normalizing, and exploiting a database that included real estate transactions, demographic data, and property characteristics.
+
+---
+
+## 🎯 Project Objectives
+- **Prepare the Data Dictionary**: Catalog and describe the key data to be stored based on the provided files.  
+- **Modify the Relational Schema**:  
+  - Incorporate new data (regions, population) into the relational model.  
+  - Normalize the relational schema to comply with **3NF (Third Normal Form)**.  
+- **Implement the Database**:  
+  - Create tables based on the validated schema.  
+  - Load data from the first half of 2020 into the database.  
+- **Execute SQL Queries**:  
+  - Address business questions by extracting and analyzing data through SQL queries.  
+  - Present the results of these analyses in a synthesized document.
+
+---
+
+## 📦 Deliverables
+1. **Data Dictionary**: Detailed descriptions of the data and their relationships.  
+2. **Normalized Relational Schema**: UML representation of the relational model (3NF).  
+3. **Operational Database**: Created tables with data loaded into a MySQL database.  
+4. **SQL Queries and Results Document**: A list of SQL queries and their associated results.  
+5. **Presentation**: Summary of the project, analyses, and recommendations.
+
+---
+
+## ✨ Skills Developed
+- Creating and normalizing a relational schema (3NF).  
+- Developing and implementing SQL databases.  
+- Loading and updating structured tables with data.  
+- Writing and executing SQL queries to address business questions.  
+- Documenting and communicating results to stakeholders.  
+
+---
+
+## 📊 Data Used
+The analyses were based on data provided by **Laplace Immo**:  
+- **Biens.csv**: Characteristics of real estate properties.  
+- **Communes.csv**: List of municipalities.  
+- **Population.csv**: Demographic information by municipality.  
+- **Regions.csv**: List of departments and regions.  
+- **Ventes.csv**: Details of real estate transactions.
+
+---
+
+## 📄 Files and Results
+- **Data Dictionary**: Description of variables and relationships.  
+- **UML Relational Schema**: Normalized relational schema (3NF).  
+- **SQL Scripts**: `Create_tables.sql` file for table creation.  
+- **SQL Notebook**: Queries and results for the required analyses.  
+- **PDF Presentation**: Summary of the project, analyses, and recommendations.
+
+---
+
+This project strengthened my skills in database modeling, SQL, and result communication, while addressing real-world challenges in the real estate sector.
